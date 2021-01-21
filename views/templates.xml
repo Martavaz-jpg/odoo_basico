@@ -1,0 +1,34 @@
+<odoo>
+    <data>
+    <record model="odoo_basico.informacion" id="odoo_basico informacion 1">
+            <field name="name">Rexistro 1</field>
+            <field name="descripcion">Descripción Rexistro 1</field>
+            <field name="autorizado">True</field>
+            <field name="sexo_traducido">Hombre</field>
+            <field name="alto_centimetros">1</field>
+            <field name="longo_centimetros">1</field>
+            <field name="ancho_centimetros">1</field>
+            <field name="peso">1</field>
+        </record>
+        <record model="odoo_basico.informacion" id="odoo_basico informacion 2">
+            <field name="name">Rexistro 2</field>
+            <field name="descripcion">Descripción Rexistro 2</field>
+            <field name="autorizado">True</field>
+            <field name="sexo_traducido">Hombre</field>
+            <field name="alto_centimetros">2</field>
+            <field name="longo_centimetros">2</field>
+            <field name="ancho_centimetros">3</field>
+            <field name="peso">2</field>
+        </record>
+        <record model="odoo_basico.informacion" id="odoo_basico informacion 3">
+            <field name="name">Rexistro 3</field>
+            <field name="descripcion">Descripción Rexistro 3</field>
+            <field name="autorizado">False</field>
+            <field name="sexo_traducido">Hombre</field>
+            <field name="alto_centimetros">1</field>
+            <field name="longo_centimetros">1</field>
+            <field name="ancho_centimetros">1</field>
+            <field name="peso">1</field>
+        </record>
+    </data>
+</odoo>

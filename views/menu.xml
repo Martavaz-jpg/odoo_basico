@@ -1,0 +1,7 @@
+<odoo>
+    <data>
+        <menuitem id="main_odoo_basico" name="Menú Nivel 0. odoo Basico"/>
+        <menuitem id="menu_informacion" name="Menú Nivel 1. informacion" parent="main_odoo_basico" action="informacion_list_action"/>
+        <menuitem id="menu_sucesion" name="Menú Nivel 2. sucesion" parent="main_odoo_basico" action="sucesion_list_action"/>
+    </data>
+</odoo>
